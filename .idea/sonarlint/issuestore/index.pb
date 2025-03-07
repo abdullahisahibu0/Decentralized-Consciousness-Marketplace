@@ -7,3 +7,5 @@ U
 %tests/mind-state-tokenization.test.ts,8/7/87efbafbb610ecb938459bd19e0d768ecd5dd31a
 U
 %contracts/consciousness-exchange.clar,9/b/9bf6db62b1311e8e34964aed6a9a273dd571c2d7
+=
+Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2

@@ -50,11 +50,6 @@ plan:
     - id: 0
       transactions:
         - emulated-contract-publish:
-            contract-name: consciousness-exchange
-            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
-            path: contracts/consciousness-exchange.clar
-            clarity-version: 2
-        - emulated-contract-publish:
             contract-name: mind-state-tokenization
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/mind-state-tokenization.clar
